@@ -1,6 +1,6 @@
 title = "RUN N JUMP";
 
-description = `
+description = ` [Tap] to jump
 `;
 
 characters = [
